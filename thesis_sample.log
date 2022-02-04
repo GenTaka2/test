@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.14159265-p3.8.3-191112-2.6 (utf8.sjis) (TeX Live 2020/W32TeX) (preloaded format=platex 2020.11.11)  28 JAN 2022 14:26
+This is e-pTeX, Version 3.14159265-p3.8.3-191112-2.6 (utf8.sjis) (TeX Live 2020/W32TeX) (preloaded format=platex 2020.11.11)  28 JAN 2022 14:42
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -81,23 +81,18 @@ LaTeX Font Info:    Font shape `JY1/mc/b/n' in size <20.74> not available
 (Font)              Font shape `JY1/mc/bx/n' tried instead on input line 47.
 LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <20.74> not available
 (Font)              Font shape `JY1/gt/m/n' tried instead on input line 47.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <20.74> on input line 47.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <14.4> on input line 47.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 47.
-LaTeX Font Info:    Font shape `JT1/mc/b/n' in size <14.4> not available
-(Font)              Font shape `JT1/mc/bx/n' tried instead on input line 47.
-LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <14.4> not available
-(Font)              Font shape `JT1/gt/m/n' tried instead on input line 47.
-LaTeX Font Info:    Font shape `JY1/mc/b/n' in size <14.4> not available
-(Font)              Font shape `JY1/mc/bx/n' tried instead on input line 47.
-LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <14.4> not available
-(Font)              Font shape `JY1/gt/m/n' tried instead on input line 47.
  [1
 
-] [1] (./thesis_sample.toc
+]
+LaTeX Font Info:    Font shape `JT1/mc/b/n' in size <14.4> not available
+(Font)              Font shape `JT1/mc/bx/n' tried instead on input line 52.
+LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <14.4> not available
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 52.
+LaTeX Font Info:    Font shape `JY1/mc/b/n' in size <14.4> not available
+(Font)              Font shape `JY1/mc/bx/n' tried instead on input line 52.
+LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <14.4> not available
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 52.
+ [1] (./thesis_sample.toc
 LaTeX Font Info:    Font shape `JT1/mc/b/n' in size <10.95> not available
 (Font)              Font shape `JT1/mc/bx/n' tried instead on input line 1.
 LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <10.95> not available
@@ -120,36 +115,31 @@ LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <10.95> not available
 
 ]
 第 3 章
-
-LaTeX Warning: Citation `latex' on page 3 undefined on input line 88.
-
-
-LaTeX Warning: Citation `latex2e' on page 3 undefined on input line 92.
-
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 96.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 96.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 96.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <9> on input line 97.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 97.
 [3
 
-] [4] (./thesis_sample.aux)
+]
+第 4 章
+[4
 
-LaTeX Warning: There were undefined references.
+]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.95> on input line 108.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 108.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 108.
+ [5] (./thesis_sample.aux)
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
  ) 
 Here is how much of TeX's memory you used:
- 693 strings out of 481140
- 10175 string characters out of 5920653
- 249901 words of memory out of 5000000
- 16778 multiletter control sequences out of 15000+600000
- 548619 words of font info for 87 fonts, out of 8000000 for 9000
+ 666 strings out of 481140
+ 9855 string characters out of 5920653
+ 249904 words of memory out of 5000000
+ 16759 multiletter control sequences out of 15000+600000
+ 544723 words of font info for 73 fonts, out of 8000000 for 9000
  929 hyphenation exceptions out of 8191
- 25i,8n,22p,160b,299s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 24i,4n,22p,428b,348s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on thesis_sample.dvi (7 pages, 2860 bytes).
+Output written on thesis_sample.dvi (8 pages, 3160 bytes).
