@@ -1,8 +1,20 @@
 \documentclass[11pt]{jreport}
 \usepackage{wusepre_thesis}
 \usepackage{indentfirst}
+\usepackage{array}
+\usepackage{amsmath}
+\usepackage{newtxtext,newtxmath}
+\usepackage[dvipdfmx]{graphicx}
+\usepackage{listings,jlisting}
+\usepackage{ascmac}
+\usepackage{here}
+\usepackage{mathtools}
+\usepackage{slashbox}
+\usepackage{multirow}
+\usepackage{cancel}
+\usepackage{framed}
+\usepackage{graphicx}
 \usepackage{url}	% \url{}コマンド用．URLを表示する際に便利
-%\usepackage{graphicx}  % ←graphicx.styを用いてEPSを取り込む場合有効にする
 			% 他のパッケージ・スタイルを使う場合には適宜追加
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -75,7 +87,9 @@
 \chapter{はじめに}
 現在のスマホなどの単眼カメラが搭載された端末で行う光学式モーションキャプチャはカメラ位置を固定することが前提となっているものがほとんどであり、端末を動かしながらモーションキャプチャを行うといった利用方法は想定されていない。そのため、部屋内での端末の位置を推定し、端末の移動・カメラの向き等を考慮したモーションキャプチャの手法を確立することで、カメラ画角等にとらわれないモーションキャプチャを行うことができ、また、より簡易的にモーションキャプチャを利用することができるのではないかと考えた。
 
-この研究では、部屋等の閉空間において一人の人間がカメラを持ちながらモーションキャプチャを行うといったような、単眼カメラの移動を考慮したモーションキャプチャの手法について検討する。通常モーションキャプチャは
+この研究では、部屋等の閉空間において一人の人間がカメラを持ちながらモーションキャプチャを行うといったような、単眼カメラの移動を考慮したモーションキャプチャの手法について検討する。通常単眼カメラによるモーションキャプチャにおいては、背景が固定となり、人間の動作から関節の動きを、もしくは人間の目を位置を判定し表情を画像認識等で抽出するという手法などがとられている。このため、カメラを動かすことを考えると人間と背景の境界の判定が精度面において必須になると考えられる。また、本手法では境界の判定を行ったあと人間の部分を除いて、残った背景のみでスマホの自己位置推定を行う。
+
+以上のことから、
 
 \chapter{関連研究}
 
@@ -83,8 +97,26 @@
 \chapter{使用機材・実装環境}
 
 
+\begin{center}
+\begin{table}[H]
+\caption{使用する機材・実装環境}
+\label{jikkoukannkyou}
+\center
+\begin{tabular}{|c||l|} \hline
+言語 & ??? \\ \hline 
+OS & Windows  \\ \hline
+\end{tabular}
+\end{table}
+\end{center}
+
 \chapter{提案手法}\label{chap:fig-tab-exp}
 
+\begin{figure}[htbp]
+  \centering
+  \includegraphics[scale = 0.5]{memo1.eps}
+  \caption{提案手法の流れ（仮）}
+  \label{shuhoufig1}
+\end{figure}
 
 \chapter{参考文献}
 
