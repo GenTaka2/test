@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.14159265-p3.8.3-191112-2.6 (utf8.sjis) (TeX Live 2020/W32TeX) (preloaded format=platex 2020.11.11)  4 FEB 2022 13:57
+This is e-pTeX, Version 3.14159265-p3.8.3-191112-2.6 (utf8.sjis) (TeX Live 2020/W32TeX) (preloaded format=platex 2020.11.11)  4 FEB 2022 15:57
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -288,6 +288,100 @@ LaTeX Font Info:    Redeclaring math accent \vec on input line 1940.
 LaTeX Info: Redefining \Bbbk on input line 2449.
 LaTeX Info: Redefining \not on input line 2598.
 )
+(c:/texlive/2020/texmf-dist/tex/latex/ascmac/ascmac.sty
+Package: ascmac 2020/01/15 v2.1 ascmac wrapper (community edition) 
+
+(c:/texlive/2020/texmf-dist/tex/latex/ascmac/tascmac.sty
+Package: tascmac 2020/01/15 v2.1 ascmac package (community edition) 
+\@savetbaselineshift=\dimen165
+\@saveybaselineshift=\dimen166
+\scb@x=\box65
+\scscb@x=\box66
+\@bw=\dimen167
+\@nbox=\box67
+\@nbody=\box68
+\@scw=\dimen168
+\ascmac@hoboxa=\box69
+\ascmac@hoboxb=\box70
+\@itemh=\dimen169
+\@iboxpos=\toks27
+\@iboxstr=\box71
+\@bwsp=\box72
+\@@bwsp=\box73
+\@bcal=\count267
+\shaderule=\dimen170
+))
+(c:/texlive/2020/texmf-dist/tex/latex/here/here.sty)
+(c:/texlive/2020/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count268
+\float@exts=\toks28
+\float@box=\box74
+\@float@everytoks=\toks29
+\@floatcapt=\box75
+)
+(c:/texlive/2020/texmf-dist/tex/latex/mathtools/mathtools.sty
+Package: mathtools 2020/03/24 v1.24 mathematical typesetting tools
+
+(c:/texlive/2020/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count269
+\calc@Bcount=\count270
+\calc@Adimen=\dimen171
+\calc@Bdimen=\dimen172
+\calc@Askip=\skip54
+\calc@Bskip=\skip55
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count271
+\calc@Cskip=\skip56
+)
+(c:/texlive/2020/texmf-dist/tex/latex/mathtools/mhsetup.sty
+Package: mhsetup 2017/03/31 v1.3 programming setup (MH)
+)
+LaTeX Info: Thecontrolsequence`\('isalreadyrobust on input line 130.
+LaTeX Info: Thecontrolsequence`\)'isalreadyrobust on input line 130.
+LaTeX Info: Thecontrolsequence`\['isalreadyrobust on input line 130.
+LaTeX Info: Thecontrolsequence`\]'isalreadyrobust on input line 130.
+\g_MT_multlinerow_int=\count272
+\l_MT_multwidth_dim=\dimen173
+\origjot=\skip57
+\l_MT_shortvdotswithinadjustabove_dim=\dimen174
+\l_MT_shortvdotswithinadjustbelow_dim=\dimen175
+\l_MT_above_intertext_sep=\dimen176
+\l_MT_below_intertext_sep=\dimen177
+\l_MT_above_shortintertext_sep=\dimen178
+\l_MT_below_shortintertext_sep=\dimen179
+\xmathstrut@box=\box76
+\xmathstrut@dim=\dimen180
+)
+(c:/texlive/2020/texmf-dist/tex/latex/slashbox/slashbox.sty
+slashbox style by K.Yasuoka, May 1993.
+\@slashboxa=\box77
+\@slashboxb=\box78
+\@slashboxc=\box79
+\@slashboxwd=\count273
+\@slashboxht=\count274
+\@slashsepl=\dimen181
+\@slashsepr=\dimen182
+) (c:/texlive/2020/texmf-dist/tex/latex/multirow/multirow.sty
+Package: multirow 2019/05/31 v2.5 Span multiple rows of a table
+\multirow@colwidth=\skip58
+\multirow@cntb=\count275
+\multirow@dima=\skip59
+\bigstrutjot=\dimen183
+)
+(c:/texlive/2020/texmf-dist/tex/latex/cancel/cancel.sty
+Package: cancel 2013/04/12 v2.2 Cancel math terms
+)
+(c:/texlive/2020/texmf-dist/tex/latex/framed/framed.sty
+Package: framed 2011/10/22 v 0.96: framed or shaded text with page breaks
+\OuterFrameSep=\skip60
+\fb@frw=\dimen184
+\fb@frh=\dimen185
+\FrameRule=\dimen186
+\FrameSep=\dimen187
+)
 (c:/texlive/2020/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
 
@@ -300,137 +394,13 @@ Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 (c:/texlive/2020/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
-Package graphics Info: Driver file: dvipdfmx.def on input line 105.
+Package graphics Info: Driver file: dvips.def on input line 105.
 
-(c:/texlive/2020/texmf-dist/tex/latex/graphics-def/dvipdfmx.def
-File: dvipdfmx.def 2017/06/24 v5.0g Graphics/color driver for dvipdfmx
+(c:/texlive/2020/texmf-dist/tex/latex/graphics-def/dvips.def
+File: dvips.def 2017/06/20 v3.1d Graphics/color driver for dvips
 ))
-\Gin@req@height=\dimen165
-\Gin@req@width=\dimen166
-)
-(c:/texlive/2020/texmf-dist/tex/latex/listings/listings.sty
-\lst@mode=\count267
-\lst@gtempboxa=\box65
-\lst@token=\toks27
-\lst@length=\count268
-\lst@currlwidth=\dimen167
-\lst@column=\count269
-\lst@pos=\count270
-\lst@lostspace=\dimen168
-\lst@width=\dimen169
-\lst@newlines=\count271
-\lst@lineno=\count272
-\lst@maxwidth=\dimen170
-
-(c:/texlive/2020/texmf-dist/tex/latex/listings/lstmisc.sty
-File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
-\c@lstnumber=\count273
-\lst@skipnumbers=\count274
-\lst@framebox=\box66
-)
-(c:/texlive/2020/texmf-dist/tex/latex/listings/listings.cfg
-File: listings.cfg 2020/03/24 1.8d listings configuration
-))
-Package: listings 2020/03/24 1.8d (Carsten Heinz)
-
-(c:/texlive/2020/texmf-dist/tex/latex/jlisting/jlisting.sty
-Package: jlisting 2006/02/20 0.2 (Thor)
-\lst@nextchar=\count275
-\lst@inputfile=\read3
-)
-(c:/texlive/2020/texmf-dist/tex/latex/ascmac/ascmac.sty
-Package: ascmac 2020/01/15 v2.1 ascmac wrapper (community edition) 
-
-(c:/texlive/2020/texmf-dist/tex/latex/ascmac/tascmac.sty
-Package: tascmac 2020/01/15 v2.1 ascmac package (community edition) 
-\@savetbaselineshift=\dimen171
-\@saveybaselineshift=\dimen172
-\scb@x=\box67
-\scscb@x=\box68
-\@bw=\dimen173
-\@nbox=\box69
-\@nbody=\box70
-\@scw=\dimen174
-\ascmac@hoboxa=\box71
-\ascmac@hoboxb=\box72
-\@itemh=\dimen175
-\@iboxpos=\toks28
-\@iboxstr=\box73
-\@bwsp=\box74
-\@@bwsp=\box75
-\@bcal=\count276
-\shaderule=\dimen176
-))
-(c:/texlive/2020/texmf-dist/tex/latex/here/here.sty)
-(c:/texlive/2020/texmf-dist/tex/latex/float/float.sty
-Package: float 2001/11/08 v1.3d Float enhancements (AL)
-\c@float@type=\count277
-\float@exts=\toks29
-\float@box=\box76
-\@float@everytoks=\toks30
-\@floatcapt=\box77
-)
-(c:/texlive/2020/texmf-dist/tex/latex/mathtools/mathtools.sty
-Package: mathtools 2020/03/24 v1.24 mathematical typesetting tools
-
-(c:/texlive/2020/texmf-dist/tex/latex/tools/calc.sty
-Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count278
-\calc@Bcount=\count279
-\calc@Adimen=\dimen177
-\calc@Bdimen=\dimen178
-\calc@Askip=\skip54
-\calc@Bskip=\skip55
-LaTeX Info: Redefining \setlength on input line 80.
-LaTeX Info: Redefining \addtolength on input line 81.
-\calc@Ccount=\count280
-\calc@Cskip=\skip56
-)
-(c:/texlive/2020/texmf-dist/tex/latex/mathtools/mhsetup.sty
-Package: mhsetup 2017/03/31 v1.3 programming setup (MH)
-)
-LaTeX Info: Thecontrolsequence`\('isalreadyrobust on input line 130.
-LaTeX Info: Thecontrolsequence`\)'isalreadyrobust on input line 130.
-LaTeX Info: Thecontrolsequence`\['isalreadyrobust on input line 130.
-LaTeX Info: Thecontrolsequence`\]'isalreadyrobust on input line 130.
-\g_MT_multlinerow_int=\count281
-\l_MT_multwidth_dim=\dimen179
-\origjot=\skip57
-\l_MT_shortvdotswithinadjustabove_dim=\dimen180
-\l_MT_shortvdotswithinadjustbelow_dim=\dimen181
-\l_MT_above_intertext_sep=\dimen182
-\l_MT_below_intertext_sep=\dimen183
-\l_MT_above_shortintertext_sep=\dimen184
-\l_MT_below_shortintertext_sep=\dimen185
-\xmathstrut@box=\box78
-\xmathstrut@dim=\dimen186
-)
-(c:/texlive/2020/texmf-dist/tex/latex/slashbox/slashbox.sty
-slashbox style by K.Yasuoka, May 1993.
-\@slashboxa=\box79
-\@slashboxb=\box80
-\@slashboxc=\box81
-\@slashboxwd=\count282
-\@slashboxht=\count283
-\@slashsepl=\dimen187
-\@slashsepr=\dimen188
-) (c:/texlive/2020/texmf-dist/tex/latex/multirow/multirow.sty
-Package: multirow 2019/05/31 v2.5 Span multiple rows of a table
-\multirow@colwidth=\skip58
-\multirow@cntb=\count284
-\multirow@dima=\skip59
-\bigstrutjot=\dimen189
-)
-(c:/texlive/2020/texmf-dist/tex/latex/cancel/cancel.sty
-Package: cancel 2013/04/12 v2.2 Cancel math terms
-)
-(c:/texlive/2020/texmf-dist/tex/latex/framed/framed.sty
-Package: framed 2011/10/22 v 0.96: framed or shaded text with page breaks
-\OuterFrameSep=\skip60
-\fb@frw=\dimen190
-\fb@frh=\dimen191
-\FrameRule=\dimen192
-\FrameSep=\dimen193
+\Gin@req@height=\dimen188
+\Gin@req@width=\dimen189
 )
 (c:/texlive/2020/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip17
@@ -438,96 +408,95 @@ Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 (c:/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-dvips.def
 File: l3backend-dvips.def 2020-03-12 L3 backend support: dvips
-\l__pdf_internal_box=\box82
-\g__pdf_backend_object_int=\count285
-\l__pdf_backend_content_box=\box83
-\l__pdf_backend_model_box=\box84
-\g__pdf_backend_annotation_int=\count286
-\g__pdf_backend_link_int=\count287
-\g__pdf_backend_link_sf_int=\count288
+\l__pdf_internal_box=\box80
+\g__pdf_backend_object_int=\count276
+\l__pdf_backend_content_box=\box81
+\l__pdf_backend_model_box=\box82
+\g__pdf_backend_annotation_int=\count277
+\g__pdf_backend_link_int=\count278
+\g__pdf_backend_link_sf_int=\count279
 )
 (./thesis_sample.aux)
 \openout1 = `thesis_sample.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/ntxmi/m/it on input line 57.
+LaTeX Font Info:    Checking defaults for OML/ntxmi/m/it on input line 56.
 LaTeX Font Info:    Trying to load font information for OML+ntxmi on input line
- 57.
+ 56.
  (c:/texlive/2020/texmf-dist/tex/latex/newtx/omlntxmi.fd
 File: omlntxmi.fd 2015/08/25 Fontinst v1.933 font definitions for OML/ntxmi.
 )
-LaTeX Font Info:    ... okay on input line 57.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 57.
-LaTeX Font Info:    ... okay on input line 57.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 57.
-LaTeX Font Info:    ... okay on input line 57.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 57.
-LaTeX Font Info:    ... okay on input line 57.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 57.
-LaTeX Font Info:    ... okay on input line 57.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 57.
-LaTeX Font Info:    ... okay on input line 57.
-LaTeX Font Info:    Checking defaults for U/ntxexa/m/n on input line 57.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for U/ntxexa/m/n on input line 56.
 LaTeX Font Info:    Trying to load font information for U+ntxexa on input line 
-57.
+56.
 
 (c:/texlive/2020/texmf-dist/tex/latex/newtx/untxexa.fd
 File: untxexa.fd 2012/04/16 Fontinst v1.933 font definitions for U/ntxexa.
 )
-LaTeX Font Info:    ... okay on input line 57.
-LaTeX Font Info:    Checking defaults for JY1/mc/m/n on input line 57.
-LaTeX Font Info:    ... okay on input line 57.
-LaTeX Font Info:    Checking defaults for JT1/mc/m/n on input line 57.
-LaTeX Font Info:    ... okay on input line 57.
-LaTeX Font Info:    Checking defaults for LMS/ntxsy/m/n on input line 57.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for JY1/mc/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for JT1/mc/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for LMS/ntxsy/m/n on input line 56.
 LaTeX Font Info:    Trying to load font information for LMS+ntxsy on input line
- 57.
+ 56.
 
 (c:/texlive/2020/texmf-dist/tex/latex/newtx/lmsntxsy.fd
 File: lmsntxsy.fd 2016/07/02 Fontinst v1.933 font definitions for LMS/ntxsy.
 )
-LaTeX Font Info:    ... okay on input line 57.
-LaTeX Font Info:    Checking defaults for LMX/ntxexx/m/n on input line 57.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for LMX/ntxexx/m/n on input line 56.
 LaTeX Font Info:    Trying to load font information for LMX+ntxexx on input lin
-e 57.
+e 56.
 
 (c:/texlive/2020/texmf-dist/tex/latex/newtx/lmxntxexx.fd
 File: lmxntxexx.fd 2016/07/03 Fontinst v1.933 font definitions for LMX/ntxexx.
 )
-LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    ... okay on input line 56.
 
 (I search kanjifont definition file: . . )
-\c@mv@tabular=\count289
-\c@mv@boldtabular=\count290
-\c@lstlisting=\count291
+\c@mv@tabular=\count280
+\c@mv@boldtabular=\count281
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
-(Font)              scaled to size 20.74pt on input line 59.
+(Font)              scaled to size 20.74pt on input line 58.
 LaTeX Font Info:    Font shape `JT1/mc/b/n' in size <20.74> not available
-(Font)              Font shape `JT1/mc/bx/n' tried instead on input line 59.
+(Font)              Font shape `JT1/mc/bx/n' tried instead on input line 58.
 LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <20.74> not available
-(Font)              Font shape `JT1/gt/m/n' tried instead on input line 59.
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 58.
 LaTeX Font Info:    Font shape `JY1/mc/b/n' in size <20.74> not available
-(Font)              Font shape `JY1/mc/bx/n' tried instead on input line 59.
+(Font)              Font shape `JY1/mc/bx/n' tried instead on input line 58.
 LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <20.74> not available
-(Font)              Font shape `JY1/gt/m/n' tried instead on input line 59.
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 58.
 LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
-(Font)              scaled to size 20.74pt on input line 59.
+(Font)              scaled to size 20.74pt on input line 58.
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
-(Font)              scaled to size 14.4pt on input line 59.
+(Font)              scaled to size 14.4pt on input line 58.
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
-(Font)              scaled to size 17.28pt on input line 59.
+(Font)              scaled to size 17.28pt on input line 58.
  [1
 
 ]
 LaTeX Font Info:    Font shape `JT1/mc/b/n' in size <14.4> not available
-(Font)              Font shape `JT1/mc/bx/n' tried instead on input line 64.
+(Font)              Font shape `JT1/mc/bx/n' tried instead on input line 63.
 LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <14.4> not available
-(Font)              Font shape `JT1/gt/m/n' tried instead on input line 64.
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 63.
 LaTeX Font Info:    Font shape `JY1/mc/b/n' in size <14.4> not available
-(Font)              Font shape `JY1/mc/bx/n' tried instead on input line 64.
+(Font)              Font shape `JY1/mc/bx/n' tried instead on input line 63.
 LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <14.4> not available
-(Font)              Font shape `JY1/gt/m/n' tried instead on input line 64.
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 63.
 LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
-(Font)              scaled to size 14.4pt on input line 64.
+(Font)              scaled to size 14.4pt on input line 63.
  [1] (./thesis_sample.toc
 LaTeX Font Info:    Font shape `JT1/mc/b/n' in size <10.95> not available
 (Font)              Font shape `JT1/mc/bx/n' tried instead on input line 1.
@@ -539,12 +508,40 @@ LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <10.95> not available
 (Font)              Font shape `JY1/gt/m/n' tried instead on input line 1.
 LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
 (Font)              scaled to size 10.95pt on input line 1.
+LaTeX Font Info:    Trying to load font information for OT1+ntxtlf on input lin
+e 3.
+
+(c:/texlive/2020/texmf-dist/tex/latex/newtx/ot1ntxtlf.fd
+File: ot1ntxtlf.fd 2015/01/17 v1.0 font definition file for OT1/ntx/tlf
 )
+LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
+(Font)              scaled to size 10.95pt on input line 3.
+LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
+(Font)              scaled to size 8.0pt on input line 3.
+LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
+(Font)              scaled to size 6.1pt on input line 3.
+LaTeX Font Info:    Trying to load font information for U+ntxmia on input line 
+3.
+
+(c:/texlive/2020/texmf-dist/tex/latex/newtx/untxmia.fd
+File: untxmia.fd 2018/04/14 Fontinst v1.933 font definitions for U/ntxmia.
+)
+LaTeX Font Info:    Trying to load font information for U+ntxsym on input line 
+3.
+
+(c:/texlive/2020/texmf-dist/tex/latex/newtx/untxsym.fd
+File: untxsym.fd 2015/03/20 Fontinst v1.933 font definitions for U/ntxsym.
+)
+LaTeX Font Info:    Trying to load font information for U+ntxsyc on input line 
+3.
+
+(c:/texlive/2020/texmf-dist/tex/latex/newtx/untxsyc.fd
+File: untxsyc.fd 2012/04/12 Fontinst v1.933 font definitions for U/ntxsyc.
+))
 \tf@toc=\write3
 \openout3 = `thesis_sample.toc'.
 
-
-[2]
+ [2]
 第 1 章
 [1
 
@@ -554,41 +551,12 @@ LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
 
 ]
 第 3 章
-LaTeX Font Info:    Trying to load font information for OT1+ntxtlf on input lin
-e 105.
-(c:/texlive/2020/texmf-dist/tex/latex/newtx/ot1ntxtlf.fd
-File: ot1ntxtlf.fd 2015/01/17 v1.0 font definition file for OT1/ntx/tlf
-)
-LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
-(Font)              scaled to size 10.95pt on input line 105.
-LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
-(Font)              scaled to size 8.0pt on input line 105.
-LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
-(Font)              scaled to size 6.1pt on input line 105.
-LaTeX Font Info:    Trying to load font information for U+ntxmia on input line 
-105.
-
-(c:/texlive/2020/texmf-dist/tex/latex/newtx/untxmia.fd
-File: untxmia.fd 2018/04/14 Fontinst v1.933 font definitions for U/ntxmia.
-)
-LaTeX Font Info:    Trying to load font information for U+ntxsym on input line 
-105.
-
-(c:/texlive/2020/texmf-dist/tex/latex/newtx/untxsym.fd
-File: untxsym.fd 2015/03/20 Fontinst v1.933 font definitions for U/ntxsym.
-)
-LaTeX Font Info:    Trying to load font information for U+ntxsyc on input line 
-105.
-
-(c:/texlive/2020/texmf-dist/tex/latex/newtx/untxsyc.fd
-File: untxsyc.fd 2012/04/12 Fontinst v1.933 font definitions for U/ntxsyc.
-) [3
+[3
 
 ]
 第 4 章
 File: memo1.eps Graphic file (type eps)
-<memo1.eps>
-[4
+<memo1.eps> [4
 
 ]
 第 5 章
@@ -596,21 +564,21 @@ File: memo1.eps Graphic file (type eps)
 
 ]
 LaTeX Font Info:    Trying to load font information for T1+ntxtt on input line 
-143.
+148.
  (c:/texlive/2020/texmf-dist/tex/latex/newtx/t1ntxtt.fd
 File: t1ntxtt.fd 2012/04/20 v3.1
 )
 LaTeX Font Info:    Font shape `T1/ntxtt/m/n' will be
-(Font)              scaled to size 10.95pt on input line 143.
+(Font)              scaled to size 10.95pt on input line 148.
  [6]
 (./thesis_sample.aux) ) 
 Here is how much of TeX's memory you used:
- 6984 strings out of 481140
- 91664 string characters out of 5920653
- 333666 words of memory out of 5000000
- 22895 multiletter control sequences out of 15000+600000
+ 5601 strings out of 481140
+ 71806 string characters out of 5920653
+ 310734 words of memory out of 5000000
+ 21528 multiletter control sequences out of 15000+600000
  571512 words of font info for 91 fonts, out of 8000000 for 9000
  929 hyphenation exceptions out of 8191
- 32i,7n,37p,835b,345s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 32i,7n,35p,823b,345s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on thesis_sample.dvi (9 pages, 5396 bytes).
+Output written on thesis_sample.dvi (9 pages, 7248 bytes).
