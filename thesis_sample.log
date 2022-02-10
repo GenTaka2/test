@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.14159265-p3.8.3-191112-2.6 (utf8.sjis) (TeX Live 2020/W32TeX) (preloaded format=platex 2020.11.11)  4 FEB 2022 15:57
+This is e-pTeX, Version 3.14159265-p3.8.3-191112-2.6 (utf8.sjis) (TeX Live 2020/W32TeX) (preloaded format=platex 2020.11.11)  10 FEB 2022 12:25
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -564,21 +564,21 @@ File: memo1.eps Graphic file (type eps)
 
 ]
 LaTeX Font Info:    Trying to load font information for T1+ntxtt on input line 
-148.
+156.
  (c:/texlive/2020/texmf-dist/tex/latex/newtx/t1ntxtt.fd
 File: t1ntxtt.fd 2012/04/20 v3.1
 )
 LaTeX Font Info:    Font shape `T1/ntxtt/m/n' will be
-(Font)              scaled to size 10.95pt on input line 148.
+(Font)              scaled to size 10.95pt on input line 156.
  [6]
 (./thesis_sample.aux) ) 
 Here is how much of TeX's memory you used:
- 5601 strings out of 481140
- 71806 string characters out of 5920653
- 310734 words of memory out of 5000000
- 21528 multiletter control sequences out of 15000+600000
+ 5602 strings out of 481140
+ 71812 string characters out of 5920653
+ 312744 words of memory out of 5000000
+ 21529 multiletter control sequences out of 15000+600000
  571512 words of font info for 91 fonts, out of 8000000 for 9000
  929 hyphenation exceptions out of 8191
  32i,7n,35p,823b,345s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on thesis_sample.dvi (9 pages, 7248 bytes).
+Output written on thesis_sample.dvi (9 pages, 11496 bytes).
